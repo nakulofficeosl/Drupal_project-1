@@ -7,3 +7,4 @@
 /.vscode/
 .DS_Store
 *.backup
+/web/sites/default/settings.php

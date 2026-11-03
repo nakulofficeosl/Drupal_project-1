@@ -1,8 +1,9 @@
 Drupal 11 Assignment
-Overview
+
+-Overview
 This project is a Drupal 11 application running on Lando with a MySQL database and managed through Composer and Drush.
 
-Prerequisites
+-Prerequisites
 Docker Desktop
 WSL2
 Ubuntu
@@ -15,11 +16,11 @@ git clone <repository-url>
 cd recommended-project
 Start Project
 lando start
+
 Verify:
-
 lando info
-Open site:
 
+Open site:
 lando open
 Install Dependencies
 composer install
@@ -98,6 +99,7 @@ Commit changes:
 git add .
 git commit -m "feat: implement feature"
 View history:
+
 
 git log --oneline
 Project Structure

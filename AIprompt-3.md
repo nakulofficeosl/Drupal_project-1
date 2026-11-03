@@ -143,7 +143,3 @@ For each topic, follow these four steps:
 - [ ] I can explain its role in an actual Drupal project.
 - [ ] I have verified its behavior in my local environment.
 - [ ] I can explain the complete workflow to another developer.
-
----
-
-**Learning Principle:** The goal is not just to remember Drupal commands. The goal is to understand what happens behind each command, why developers use it, and how it fits into a real-world Drupal development workflow.
